@@ -18,7 +18,7 @@ jobs:
           okteto context use https://cloud.okteto.com --token ${{ secrets.OKTETO_TOKEN }}
           
           pip install -r requirements.txt
-          flask run -debug
+          flask run 
           
         
     
