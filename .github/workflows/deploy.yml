@@ -1,0 +1,29 @@
+name: Deployment workflow
+  
+on:
+  push: 
+    branches: 
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - run: |
+          curl https://get.okteto.com -sSfL | sh
+          okteto context use https://cloud.okteto.com --token ${{ secrets.OKTETO_TOKEN }}
+          
+          pip install -r requirements.txt
+          flask run -debug
+          
+        
+    
+          
+          
+    
+  
+  
