@@ -17,8 +17,7 @@ jobs:
           curl https://get.okteto.com -sSfL | sh
           okteto context use https://cloud.okteto.com --token ${{ secrets.OKTETO_TOKEN }}
           
-          pip install -r requirements.txt
-          flask run 
+          okteto deploy --build
           
         
     
