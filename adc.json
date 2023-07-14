@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "hack-team-datadivers-392719",
+    "private_key_id": "e70f656d55284fbdac4d0d4ff5c5739f2d61dd35",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYOd6idCTblLS8\nxXAgMsY/gTCqs+Z+t66CfdraPucDUKi+J3P/9JoGxzeaZHN+ogU3hNfCJPpuSovG\nXdPBwRtJWr7JFY/K7vc5LyjrH5PrGnqtgpVPorOx4Gwk5DqnvhvDFfstq5QdvCAU\nvuFgrkQAoyQmw3GKDa2oxoHqzwSSTrnJo2HOvd3+VI+B5hNOidfqKMgZgbEkvPCL\nM+pCi05xuLBQqLjf44DZVh4BJHi8wugEWRLZG2DKWFDZST7VX478WFPgkdosDj35\n9ezN2lvP3VnmD3P00gr9/bK8A0fOfCDQmHbO7Usj4Vxh8o19AyKL7EDuHwgywQBK\n8a7Ovvq1AgMBAAECggEABMaL/Xy3S0w2/1USV3BAV+2toS1TpdYNW3qnSwF+LdRx\n9sU2FmmOC3hkfit4lBhxIXTBcA3I7XzZNbfr1MBCIuL96UEL6cnlZ53bIsUy1sVV\n4+uc04q/KG1p9x5R2MFWDaC66Ivhca1dNElouKe+6mYz1CN9hF85e3n+yWcFNbHG\nKljuK3bYPLqsdjR+EU7bd7EPZS0RsBfRd1zc35RV3Z+px+MOTNJgG1iZ8uxWwxry\nHb2DGelPsVHDkphI9yO+X038glVEBa1q/zoPx1Jzzu2DrC4nWGzjAdKNa3NLrtGC\nacCS5sGSETogphv3p17tzp/49+C80BVW1Si6pylCYQKBgQDQ84UJvrQt1zh5eunl\n3VepHfy73xRGttBbxv+3lHjCidl6j1ENbRWJxzaa4nNq/+1sCVOVRPp4nnT4S24I\n1KAGUhzWpgDQDsnOcxxayqiVwVHU/I9f8fv0YLU6TeEMsuZdv8A/BcPdayZVGJo1\nF5QYdupqz3x6CQWX4D68lT7qhwKBgQC6gJDVBnLQlFG6Rp4C4iOkhOJzDAzvQ+Zp\nCiO7lwLtR85Zq9Jqt3Oznnx8tFI2pbX0bJ/IW8wJtip05geXsXgfsaiWF3tUdL7f\ngjxPGdO/6Ic2Aiz2TgN7YdIHH1oe9BcaUThC04/s4A140D26mGlqA1qKbxt/HoHE\nvm098UsT4wKBgHBE+A2FXvBmfFyhUz2D0U734szbDtzz6z30zX9JEh2MzcKRcL5j\nBziRRmCwHc23F01+MV+5wU6/7R9gAA5UmGrtAbu/VB52Y64+oVSTIUPdrGdhEHQ/\n492pfJaIM8yL70Ud+2Cha1zz7pO4dVrjgVonwsqDE2HKqSuyfGL9WeHPAoGAJQAg\nu8KdwLfMRxJ/gr7up1Mdwglf/5APBEPYtvzMvdqDG9M02asvrzEALZVwwhq6MJXk\nVVGw9zRG1A5W70dsN419jtl1xFmtDJa/9EmBcw9k09g2p17u3emYS4Vy0bVHaBc4\n/DkQ0sPYqGFX/c8DCt9DdTd50wxwXmIRNjrK1FUCgYBbMqvo6sBEeep1Ccc2HkQC\n+9MvyES4uFlPVhGfJcOrf1uLyQXgUfO0qlaCTAYSgJPhgktG+3u6v5RE2yK0NlxK\nw/vWeoF6cPRfJu168z0SMO3k5nSZnbUsxJ6z3+jvo1h1okNdicKbxeGle0bNYkHL\nwLaUHJ+xVpb5dCdYjvjKFg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "hack-serviceaccount@hack-team-datadivers-392719.iam.gserviceaccount.com",
+    "client_id": "107375838608915965601",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hack-serviceaccount%40hack-team-datadivers-392719.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+    }
